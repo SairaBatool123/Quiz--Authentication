@@ -1,0 +1,9 @@
+.box {
+    box-shadow: rgba(126, 203, 236, 0.12) 0px 15px 15px 0px,
+      rgba(131, 209, 243, 0.32) 0px 0px 8px 8px;
+    position: relative;
+    width: 700px;
+    height: 400px;
+    background: transparent;
+    border: 5px solid rgb(13, 225, 233);
+  }
